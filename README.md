@@ -1,6 +1,6 @@
 # hiii (≧◡≦) i'm nikita, welcome to my github profile!
 
-i'm a web developer who's into full-stack development, especially anything related to javascript and its ecosystem. i also enjoy exploring devops, ui/ux design, operating systems, and networking—basically, anything that piques my curiosity in computer science!
+i'm a web developer who's into full-stack development, especially anything related to javascript and its ecosystem. i also enjoy exploring devops, ui/ux design, operating systems, and networking — basically, anything that piques my curiosity in computer science!
 
 ## my toolbox 🛠️
 
@@ -17,6 +17,7 @@ here's a peek into the technologies i work with:
   <img src="https://api.iconify.design/logos/typescript-icon.svg" height="40" alt="TypeScript"/> &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos/sass.svg" height="40" alt="SASS"/> &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://api.iconify.design/vscode-icons/file-type-astro.svg" height="40" alt="Astro"/> &nbsp;&nbsp;&nbsp;
 </p>
 
 ### backend
@@ -34,15 +35,14 @@ here's a peek into the technologies i work with:
 
 <p>
   <img src="https://api.iconify.design/logos/docker-icon.svg" height="40" alt="Docker"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/devicon/nixos.svg" height="40" alt="Nix"/>
+  <img src="https://api.iconify.design/logos/github-actions.svg" height="40" alt="GitHub Actions"/> &nbsp;&nbsp;&nbsp;
 </p>
 
 ### other tools
 
 <p>
-  <img src="https://api.iconify.design/vscode-icons/file-type-astro.svg" height="40" alt="Astro"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos/github-actions.svg" height="40" alt="GitHub Actions"/> &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos/linux-tux.svg" height="40" alt="Linux"/>
+  <img src="https://api.iconify.design/devicon/nixos.svg" height="40" alt="Nix"/>
 </p>
 
 </div>
