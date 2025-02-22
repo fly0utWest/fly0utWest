@@ -57,7 +57,7 @@ i'm comfortable communicating in:
 
 ## socials (＾ ▽ ＾)
 
-let's connect! you can find me here:
+you can find me here:
 
 - **email:** [ablamskiy.n@yandex.ru](mailto:ablamskiy.n@yandex.ru)
 - **website:** [fly0utwest.dev](https://fly0utwest.dev)
