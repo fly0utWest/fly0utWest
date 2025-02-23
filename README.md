@@ -1,4 +1,4 @@
-# hiii (≧◡≦) i'm nikita, welcome to my github profile!
+# hiii (≧◡≦) i'm nikita
 
 i'm a web developer who's into full-stack development, especially anything related to javascript and its ecosystem. i also enjoy exploring devops, ui/ux design, operating systems, and networking — basically, anything that piques my curiosity in computer science!
 
