@@ -1,4 +1,4 @@
-# hiii (≧◡≦) i'm nikita, welcome to my github profile!
+# hello. i'm nikita, welcome to my github profile!
 
 i'm a web developer who's into full-stack development, especially anything related to javascript and its ecosystem. i also enjoy exploring devops, ui/ux design, operating systems, and networking — basically, anything that piques my curiosity in computer science!
 
@@ -47,7 +47,7 @@ here's a peek into the technologies i work with:
 
 </div>
 
-## languages 🌐
+## languages
 
 i'm comfortable communicating in:
 
@@ -55,7 +55,7 @@ i'm comfortable communicating in:
 - english: c1
 - ukrainian: fluent
 
-## socials (＾ ▽ ＾)
+## socials
 
 let's connect! you can find me here:
 
@@ -63,4 +63,4 @@ let's connect! you can find me here:
 - **website:** [fly0utwest.dev](https://fly0utwest.dev)
 - **telegram:** [@fly0utwest](https://t.me/fly0utwest)
 
-have a nice day! (¬‿¬)
+have a nice day!
