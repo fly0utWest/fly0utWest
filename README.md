@@ -1,8 +1,8 @@
-# hello. i'm nikita, welcome to my github profile!
+# hello. i'm nikita, welcome to my github profile
 
-i'm a web developer who's into full-stack development, especially anything related to javascript and its ecosystem. i also enjoy exploring devops, ui/ux design, operating systems, and networking — basically, anything that piques my curiosity in computer science!
+i'm a web developer who's into full-stack development, especially anything related to javascript and its ecosystem. i also enjoy exploring devops, ui/ux design, operating systems, and networking — basically, anything that piques my curiosity in computer science
 
-## my toolbox 🛠️
+## my toolbox
 
 here's a peek into the technologies i work with:
 
@@ -62,5 +62,3 @@ let's connect! you can find me here:
 - **email:** [ablamskiy.n@yandex.ru](mailto:ablamskiy.n@yandex.ru)
 - **website:** [fly0utwest.dev](https://fly0utwest.dev)
 - **telegram:** [@fly0utwest](https://t.me/fly0utwest)
-
-have a nice day!
