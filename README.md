@@ -6,9 +6,9 @@ my name's nikita, i'm a web developer who's into full-stack development, especia
 
 i'm comfortable communicating in:
 
-- russian: native
-- english: c1
-- ukrainian: fluent
+- 🇷🇺 russian: native
+- 🇬🇧 english: c1
+- 🇺🇦 ukrainian: fluent
 
 ### contact
 [![telegram: @fly0utwest](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/fly0utwest)
