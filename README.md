@@ -10,7 +10,5 @@ i'm comfortable communicating in:
 - english: c1
 - ukrainian: fluent
 
-### socials
-
 ### contact
 [![telegram: @fly0utwest](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/fly0utwest)
